@@ -1,2 +1,10 @@
 # StockGame
-A little game i made to test my skills. You can buy and sell some stuff in it, and after every deal prices will randomly change
+7 products:
+gold, iron, tin, silver, plumbum, oil, gas, copper.
+
+3 commands:
+buy, sell, show
+
+starting budget - 10000 coins
+
+prices change randomly 
